@@ -1,3 +1,3 @@
 # hello-automata
 
-Push please 6
+Push please 7
