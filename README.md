@@ -1,3 +1,3 @@
 # hello-automata
 
-Push please 24
+Push please 25
